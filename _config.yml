@@ -13,12 +13,9 @@ sass:
 paginate: 5
 paginate_path: "page:num"
 ##The website description (to be used in meta tags)
-description: This is the webpage for DLI Atlantic Training Initatives
+description: This is the webpage for DLI Atlantic Regional Training.
 ##Some frequently used keywords on your website
-keywords: some, relevant, keywords, for, usage, in metatags
-
-##define this for disqus comment support
-#disqus: forumname
+keywords: Statistics Canada, DLI, Atlantic Canada, data, data librarian, research data management
 
 ##set this to enable google analytics
 #ga_id: analyticsID
@@ -32,6 +29,6 @@ links:
   github: username
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: placeholder.jpg
+##about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
-sidebar: on
+##sidebar: on

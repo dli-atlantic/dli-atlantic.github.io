@@ -12,7 +12,7 @@ permalink: /local-arrangements/
 
 ## Workshop Location
 
-The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.ca), which overlooks the Bedford Basin in Halifax, Nova Scotia. Situated on a park-like campus in the centre of the Halifax Regional Municipality, the Mount is just minutes from the heart of downtown Halifax.
+The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.ca), which overlooks the Bedford Basin in Halifax, Nova Scotia. Situated on a park-like campus in the centre of the Halifax Regional Municipality, the Mount is just minutes from the heart of downtown Halifax. Download a [campus map (PDF)](http://www.msvu.ca/site/media/msvu/CampusMap(1).pdf).
 
 ## Accommodation Options
 

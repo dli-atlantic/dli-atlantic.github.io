@@ -6,6 +6,7 @@ permalink: /local-arrangements/
 
 ## {{ page.title }}
 
+* TOC
 {:toc}
 
 ### Workshop Location

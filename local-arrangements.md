@@ -39,7 +39,7 @@ The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.c
 
 ## Things to do in Halifax
 
-*Coming soon....
+*Coming soon....*
      
 
 

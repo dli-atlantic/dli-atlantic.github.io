@@ -27,8 +27,7 @@ The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.c
 
 ### City Transportation Options
 
-*Between Mount Saint Vincent University and Downtown*
-- [Halifax Transit](https://www.halifax.ca/transportation/halifax-transit): Busses **80**, **81**, and **90** connect Mount Saint Vincent University to Downtown. Fare is $2.50.
+- [Halifax Transit](https://www.halifax.ca/transportation/halifax-transit): Busses **80**, **81**, and **90** connect Mount Saint Vincent University to Downtown. Fare is $2.50. Please check the website (or Google Maps) for information on other routes.
 - [Casino Taxi](https://www.casinotaxi.ca/): standard taxi service.
      
 

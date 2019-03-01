@@ -17,11 +17,11 @@ The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.c
 
 [//]: # (## Accommodation Options)
 
-[//]: # (- [Lord Nelson Hotel](https://lordnelsonhotel.ca/))
-[//]: #  (- $165 / night with CAUBO discount code: CAU111 )
-[//]: #  (- "With an incomparable location overlooking the famous Public Gardens, the Lord Nelson Hotel & Suites has been a beloved downtown Halifax landmark for over 85 years. Relax and indulge in captivating surroundings freshly remodeled with the perfect blend of classic refinement and contemporary style" (*from the Lord Nelson Hotel website*).)
-[//]: #  (- The hotel has a lounge and restaurant, and there are a lot of food and shopping options nearby.)
-[//]: #(- MSVU has lower cost dorm options on campus. Check back soon for more details and rates.)
+[//]: # ( - [Lord Nelson Hotel](https://lordnelsonhotel.ca/))
+[//]: # ( - $165 / night with CAUBO discount code: CAU111 )
+[//]: # ( - "With an incomparable location overlooking the famous Public Gardens, the Lord Nelson Hotel & Suites has been a beloved downtown Halifax landmark for over 85 years. Relax and indulge in captivating surroundings freshly remodeled with the perfect blend of classic refinement and contemporary style" (*from the Lord Nelson Hotel website*).)
+[//]: # ( - The hotel has a lounge and restaurant, and there are a lot of food and shopping options nearby.)
+[//]: # ( - MSVU has lower cost dorm options on campus. Check back soon for more details and rates.)
 
 
 ## Transit Options

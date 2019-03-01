@@ -14,15 +14,15 @@ permalink: /local-arrangements/
 
 The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.ca), which overlooks the Bedford Basin in Halifax, Nova Scotia. Situated on a park-like campus in the centre of the Halifax Regional Municipality, the Mount is just minutes from the heart of downtown Halifax. Download a [campus map (PDF)](http://www.msvu.ca/site/media/msvu/CampusMap(1).pdf).
 
-[//]: #
-(## Accommodation Options
 
-- [Lord Nelson Hotel](https://lordnelsonhotel.ca/)
-  - $165 / night with CAUBO discount code: CAU111
-  - "With an incomparable location overlooking the famous Public Gardens, the Lord Nelson Hotel & Suites has been a beloved downtown Halifax landmark for over 85 years. Relax and indulge in captivating surroundings freshly remodeled with the perfect blend of classic refinement and contemporary style" (*from the Lord Nelson Hotel website*). 
-  - The hotel has a lounge and restaurant, and there are a lot of food and shopping options nearby.
-- MSVU has lower cost dorm options on campus. Check back soon for more details and rates.
-)
+[//]: # (## Accommodation Options)
+
+[//]: # - [Lord Nelson Hotel](https://lordnelsonhotel.ca/))
+[//]: #  - $165 / night with CAUBO discount code: CAU111 )
+[//]: #  - "With an incomparable location overlooking the famous Public Gardens, the Lord Nelson Hotel & Suites has been a beloved downtown Halifax landmark for over 85 years. Relax and indulge in captivating surroundings freshly remodeled with the perfect blend of classic refinement and contemporary style" (*from the Lord Nelson Hotel website*).)
+[//]: #  - The hotel has a lounge and restaurant, and there are a lot of food and shopping options nearby.)
+[//]: #- MSVU has lower cost dorm options on campus. Check back soon for more details and rates.)
+
 
 ## Transit Options
 

@@ -8,13 +8,13 @@ permalink: /schedule/
 
 *Please note that this is currently a **draft** schedule. Times are subject to change based on presenter availability.*
 
-|-- |:--:|-- 
+|--- 
 | | Day 1 - May 8 |
-|
+|-|:-:|-
 | *Time* | *Session* | *Presenter*
-|:----------:|:------------:|:--:
+|:-:|:-:|:-:|
 | 8:30-9:00	| Registration|
-|:----------|:------------|:--
+|:-|:-|:-
 | 9:00-9:15	| Housekeeping and Welcome	| Hosts
 |:----------|:------------|:--
 | 9:15-9:40	| Icebreaker Activity |	Hosts

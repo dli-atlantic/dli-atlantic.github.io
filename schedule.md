@@ -23,7 +23,8 @@ permalink: /schedule/
 |:----------|:--:|:---
 | 10:15-10:30	| Break	|
 |:----------|:------------|:--
-| 10:30-12:00	| Finding Health Stats: Health Indicators and CIHI Workshop | Julie Marcoux, Dalhousie
+| 10:30-12:00	| Finding Health Stats: | Julie Marcoux, Dalhousie
+| |Health Indicators and CIHI Workshop | 
 |:----------|:--:|:---
 | 12:00-1:00 | Lunch	|
 |:----------|:------------|:--
@@ -35,7 +36,8 @@ permalink: /schedule/
 |:----------|:------------|:--
 | 3:15-4:00	| Dataverse Workshop | Margaret Vail, StFX
 |:----------|:------------|:--
-| 4:00-4:30	| Follow up to Icebreaker: 5 minute lightning talks about delivering data services |
+| 4:00-4:30	| Follow up to Icebreaker: 
+| |5 minute lightning talks about delivering data services |
 |:----------|:------------|:--
 | 6:00 | DLI Dinner 
 |---

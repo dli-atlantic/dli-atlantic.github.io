@@ -10,9 +10,9 @@ permalink: /schedule/
 
 |-- |:--:|-- 
 | | Day 1 - May 8 |
-|:--:|:--:|:--: 
+|
 | *Time* | *Session* | *Presenter*
-|:----------|:------------|:--
+|:----------:|:------------:|:--:
 | 8:30-9:00	| Registration|
 |:----------|:------------|:--
 | 9:00-9:15	| Housekeeping and Welcome	| Hosts

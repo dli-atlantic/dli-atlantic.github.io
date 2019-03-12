@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-{{ page.title }}
+## {{ page.title }}
 
 *Please note that this is currently a **draft** schedule. Times are subject to change based on presenter availability.*
 
@@ -32,10 +32,6 @@ permalink: /schedule/
 | :- | :- | :-
 | 3:15-4:00	| Dataverse Workshop | Margaret Vail, StFX
 | 4:00-4:30	| Follow up to Icebreaker: 5 minute lightning talks about delivering data services |
-|---
-
-===
-
 |---
 | |:--: | 
 | | Day 2: May 9 |

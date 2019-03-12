@@ -39,7 +39,11 @@ permalink: /schedule/
 | :- | :- | :-
 | 3:15-4:00	| Dataverse Workshop | Margaret Vail, StFX
 | 4:00-4:30	| Follow up to Icebreaker: 5 minute lightning talks about delivering data services |
+| 6:00 | DLI Dinner 
 |---
+
+-------
+
 |---
 | |:--: | 
 | | Day 2 - May 9 |

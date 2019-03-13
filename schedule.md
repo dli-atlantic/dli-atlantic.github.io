@@ -10,7 +10,7 @@ permalink: /schedule/
 
 |--- 
 | | Day 1 - May 8 |
-|:-:|:-:|:-:|
+|:----------|:------------|:-- |
 | *Time* | *Session* | *Presenter* |
 |:----------|:------------|:-- |
 | 8:30-9:00	| Registration| |

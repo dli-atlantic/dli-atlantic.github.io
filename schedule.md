@@ -8,9 +8,9 @@ permalink: /schedule/
 
 *Please note that this is currently a **draft** schedule. Times are subject to change based on presenter availability.*
 
-**Day 1 - May 8**
+### Day 1 - May 8
 
-|---
+|--- |--- |--- |
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* &nbsp; &nbsp; |
 |:-|:-|:-|
 | 8:30-9:00	| Registration| |
@@ -29,9 +29,9 @@ permalink: /schedule/
 |---
 
 
-**Day 2 - May 9**
+### Day 2 - May 9
 
-|---
+|--- |--- |--- |
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* &nbsp; &nbsp; |
 |:-|:-|:-|
 | 8:30-9:00	 | Arrival and refreshments:  Coffee with new DLI members | |

@@ -10,7 +10,6 @@ permalink: /schedule/
 
 #### Day 1 - May 8
 
-|--- 
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* |
 | 8:30-9:00	| Registration| |
 | 9:00-9:15	| Housekeeping and Welcome	| Hosts |
@@ -29,7 +28,6 @@ permalink: /schedule/
 
 #### Day 2 - May 9
 
-|---
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* |
 | 8:30-9:00	 | Arrival and refreshments:  Coffee with new DLI members |
 | 9:00-10:30	| Intro Nesstar / WDS workshop | Siobhan Hanratty, UNB |

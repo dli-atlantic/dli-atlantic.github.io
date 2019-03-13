@@ -36,7 +36,7 @@ permalink: /schedule/
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter*  |
 |:-|:-|:-|
 | 8:30-9:00	 | Arrival and refreshments:  Coffee with new DLI members | |
-| 9:00-10:30	| Intro Nesstar / WDS workshop | Siobhan Hanratty, UNB |
+| 9:00-10:30	| Intro Nesstar & WDS workshop | Siobhan Hanratty, UNB |
 | 10:30-10:45	| Break	| |
 | 10:45-12:15	| Finding Census Geography & CHASS Workshop| Sandra Sawchuk, MSVU |
 | 12:15-1:30	| Lunch	| |

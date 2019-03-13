@@ -9,7 +9,7 @@ permalink: /schedule/
 *Please note that this is currently a **draft** schedule. Times are subject to change based on presenter availability.*
 
 |--- 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Day 1 - May 8 | |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -| Day 1 - May 8 | |
 |:----------|:------------|:-- |
 | *Time* | *Session* | *Presenter* |
 |:----------|:------------|:-- |

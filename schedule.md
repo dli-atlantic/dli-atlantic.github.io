@@ -11,7 +11,7 @@ permalink: /schedule/
 **Day 1 - May 8**
 
 |---
-| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* |
+| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* &nbsp; &nbsp; |
 |:-|:-|:-|
 | 8:30-9:00	| Registration| |
 | 9:00-9:15	| Housekeeping and Welcome	| Hosts |
@@ -24,7 +24,7 @@ permalink: /schedule/
 | 2:30-3:00	| 2021 Census Consultation | Stats Can |
 | 3:00-3:15	| Break	| |
 | 3:15-4:00	| Dataverse Workshop | Margaret Vail, StFX |
-| 4:00-4:30	| Follow up to Icebreaker: 5 minute lightning talks about delivering data services |
+| 4:00-4:30	| Follow up to Icebreaker: 5 minute lightning talks about delivering data services | Panel |
 | 6:00 | DLI Dinner | |
 |---
 
@@ -32,9 +32,9 @@ permalink: /schedule/
 **Day 2 - May 9**
 
 |---
-| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* |
+| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter* &nbsp; &nbsp; |
 |:-|:-|:-|
-| 8:30-9:00	 | Arrival and refreshments:  Coffee with new DLI members |
+| 8:30-9:00	 | Arrival and refreshments:  Coffee with new DLI members | |
 | 9:00-10:30	| Intro Nesstar / WDS workshop | Siobhan Hanratty, UNB |
 | 10:30-10:45	| Break	| |
 | 10:45-12:15	| Finding Census Geography & CHASS Workshop| Sandra Sawchuk, MSVU |

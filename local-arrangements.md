@@ -41,6 +41,8 @@ The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.c
 
 *Coming soon....*
      
+## City Map
 
+<iframe src="https://www.google.com/maps/d/embed?mid=19LLj6Muu9y0qKEXuaeLHsc3MO_HSlkqH" width="640" height="480"></iframe>
 
 

@@ -39,9 +39,9 @@ The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.c
 
 ## Things to do in Halifax
 
-*Coming soon....*
+Check out the map below for a list of all of the DLI-related locations and some fun things to do in the city.
      
-## City Map
+### City Map
 
 <iframe src="https://www.google.com/maps/d/embed?mid=19LLj6Muu9y0qKEXuaeLHsc3MO_HSlkqH" width="640" height="480"></iframe>
 

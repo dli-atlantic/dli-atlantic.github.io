@@ -11,7 +11,7 @@ permalink: /schedule/
 **Day 1 - May 8**
 
 |--- 
-| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* | *Session* | *Presenter*  |
+| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* &nbsp; &nbsp;| *Session* | *Presenter*  |
 |:-|:-|:-|
 | 8:30-9:00	| McCain Atrium | Registration| |
 | 9:00-9:15	| McCain 301 | Housekeeping and Welcome	| Hosts |
@@ -33,7 +33,7 @@ permalink: /schedule/
 **Day 2 - May 9**
 
 |--- 
-| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* | *Session* | *Presenter*  |
+| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* &nbsp; &nbsp; | *Session* | *Presenter*  |
 |:-|:-|:-|
 | 8:30-9:00	 | McCain Atrium | Arrival and refreshments:  Coffee with new DLI members | |
 | 9:00-10:30	| Seton 316 | Intro Nesstar & WDS workshop | Siobhan Hanratty, UNB |

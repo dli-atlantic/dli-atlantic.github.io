@@ -11,7 +11,7 @@ permalink: /schedule/
 **Day 1 - May 8**
 
 |--- 
-| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter*  |
+| *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter*  |
 |:-|:-|:-|
 | 8:30-9:00	| McCain Atrium | Registration| |
 | 9:00-9:15	| McCain 301 | Housekeeping and Welcome	| Hosts |

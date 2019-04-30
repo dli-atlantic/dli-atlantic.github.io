@@ -24,7 +24,7 @@ The 2019 workshop will be held at [Mount Saint Vincent University](http://msvu.c
 
 ### Accomodation for Presenters
 
-- [Holiday Inn Express & Suites Halifax - Bedford](www.hiexhalifax.com)
+- [Holiday Inn Express & Suites Halifax - Bedford](http://www.hiexhalifax.com)
    - There is not a direct bus route from this hotel to the Mount, but if you prefer to bus, you can walk down to the Bedford Highway (about 25 min.) and catch the 80, 81, or 90. See the map below for location information. Taxi information is also  below. 
 
 ## Transit Options

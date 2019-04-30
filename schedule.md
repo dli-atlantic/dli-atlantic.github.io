@@ -6,7 +6,6 @@ permalink: /schedule/
 
 ## {{ page.title }}
 
-*Please note that this is currently a **draft** schedule. Times are subject to change based on presenter availability.*
 For room locations and parking, please take a look at this [campus map](/img/campus-map-2019-04-30.png). DLI specific details are on the left side. 
 
 **Day 1 - May 8**

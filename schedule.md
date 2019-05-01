@@ -36,7 +36,7 @@ For room locations and parking, please take a look at this [campus map](/img/cam
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter*  |
 |:-|:-|:-|
 | 8:30-8:55	 | McCain Atrium | Arrival and refreshments:  Coffee with new DLI members | Jaqueline Tebbens |
-| 8:55-9:00 | | *walk to McCain* | |
+| 8:55-9:00 | | *walk to Seton* | |
 | 9:00-10:30	| Seton 316 | Intro Nesstar & WDS workshop | Siobhan Hanratty, UNB |
 | 10:30-10:45	| Seton 316 | Break	| |
 | 10:45-12:15	| Seton 316 | Finding Census Geography & CHASS Workshop| Sandra Sawchuk, MSVU |

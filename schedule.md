@@ -6,7 +6,7 @@ permalink: /schedule/
 
 ## {{ page.title }}
 
-For room locations and parking, please take a look at this [campus map](/img/campus-map-2019-04-30.png). DLI specific details are on the left side. 
+For room locations and parking, please take a look at this [campus map](/img/campus-map-2019-04-30.png) (DLI specific details are on the left side of the document.) 
 
 **Day 1 - May 8**
 

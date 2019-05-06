@@ -13,19 +13,19 @@ For room locations and parking, please take a look at this [campus map](/img/cam
 |--- 
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter*  |
 |:-|:-|:-|
-| 8:30-9:00	| McCain Atrium | Registration| |
+| 8:30-9:00	| McCain Atrium | Registration & Coffee| |
 | 9:00-9:15	| McCain 301 | Housekeeping and Welcome	| Hosts; Tanja Harrison, MSVU |
-| 9:15-9:40	| McCain 301 | Icebreaker Activity |	Hosts |
-| 9:40-10:15| McCain 301 | DLI Update | Jaqueline Tebbens, Stats Can |
-| 10:15-10:30	| McCain 301 | Break (*walk to Seton*)	| |
+| 9:15-9:45	| McCain 301 | Icebreaker Activity |	Hosts |
+| 9:45-10:05| McCain 301 | DLI Update | Jaqueline Tebbens, Stats Can |
+| 10:15-10:30	| Seton 316 | Break (*walk to Seton*)	| |
 | 10:30-12:00	| Seton 316 | Finding Health Stats: Health Indicators and CIHI Workshop | Julie Marcoux, Dalhousie |
 | 12:00-1:00 | McCain Atrium | Lunch (*walk to McCain*)	| |
-| 1:00-2:30	| McCain 301 | Census PUMF Presentation | David Price, Stats Can |
-| 2:30-3:00	| McCain 301 | 2021 Census Consultation | Nicole Belair and Paul Schwets, Stats Can |
-| 3:00-3:15	| McCain 301 | Break (*walk to Seton*)	| |
+| 1:00-2:00	| McCain 301 | Census PUMF Presentation | David Price, Stats Can |
+| 2:00-2:45	| McCain 301 | 2021 Census Consultation | Nicole Belair and Paul Schwets, Stats Can |
+| 3:00-3:15	| Seton 316 | Break (*walk to Seton*)	| |
 | 3:15-4:00	| Seton 316 | Dataverse Workshop | Margaret Vail, StFX |
-| 4:00-4:30	| Seton 316 | Follow up to Icebreaker: 5 minute lightning talks about delivering data services | Panel |
-| 6:00 | Lot Six | DLI Dinner | |
+| 4:00-4:30	| Seton 316 | 5-minute lightning talks about delivering data services | Panel |
+| 6:30 | Lot Six | DLI Dinner | |
 |---
 
 ---------
@@ -40,9 +40,9 @@ For room locations and parking, please take a look at this [campus map](/img/cam
 | 9:00-10:30	| Seton 316 | Intro Nesstar & WDS workshop | Siobhan Hanratty, UNB |
 | 10:30-10:45	| Seton 316 | Break	| |
 | 10:45-12:15	| Seton 316 | Finding Census Geography & CHASS Workshop| Sandra Sawchuk, MSVU |
-| 12:15-1:30	| McCain Atrium | Lunch (*walk to McCain*)	| |
-| 1:30-3:00	| McCain 301 | CCHS Presentation |	Haileigh McDonald, Stats Can |
-| 3:00-3:15	| McCain 301 | Break	| |
-| 3:15-4:15	| McCain 301 | How do I?	| Panel |
+| 12:30-1:45	| McCain Atrium | Lunch (*walk to McCain*)	| |
+| 1:45-2:45	| McCain 301 | CCHS Presentation |	Haileigh McDonald, Stats Can |
+| 2:45-3:00	| McCain 301 | Break	| |
+| 3:00-4:15	| McCain 301 | Follow up to Icebreaker: How do I do that?	| Panel |
 | 4:15-4:30	| McCain 301 | Wrap Up	| |
 |---

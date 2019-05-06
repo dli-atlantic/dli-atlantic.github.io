@@ -21,7 +21,7 @@ For room locations and parking, please take a look at this [campus map](/img/cam
 | 10:30-12:00	| Seton 316 | Finding Health Stats: Health Indicators and CIHI Workshop | Julie Marcoux, Dalhousie |
 | 12:00-1:00 | McCain Atrium | Lunch (*walk to McCain*)	| |
 | 1:00-2:00	| McCain 301 | Census PUMF Presentation | David Price, Stats Can |
-| 2:00-2:45	| McCain 301 | 2021 Census Consultation | Nicole Belair and Paul Schwets, Stats Can |
+| 2:00-2:45	| McCain 301 | 2021 Census Consultation ([Discussion Points](/img/census-consultation.docx)) | Nicole Belair and Paul Schwets, Stats Can |
 | 3:00-3:15	| Seton 316 | Break (*walk to Seton*)	| |
 | 3:15-4:00	| Seton 316 | Dataverse Workshop | Margaret Vail, StFX |
 | 4:00-4:30	| Seton 316 | 5-minute lightning talks about delivering data services | Panel |

@@ -16,7 +16,7 @@ For room locations and parking, please take a look at this [campus map](/img/cam
 | 8:30-9:00	| McCain Atrium | Registration & Coffee| |
 | 9:00-9:15	| McCain 301 | Housekeeping and Welcome	| Hosts; Tanja Harrison, MSVU |
 | 9:15-9:45	| McCain 301 | Icebreaker Activity |	Hosts |
-| 9:45-10:05| McCain 301 | DLI Update | Jaqueline Tebbens, Stats Can |
+| 9:45-10:05| McCain 301 | DLI Update | Jacqueline Tebbens, Stats Can |
 | 10:15-10:30	| Seton 316 | Break (*walk to Seton*)	| |
 | 10:30-11:50	| Seton 316 | Finding Health Stats: Health Indicators and CIHI Workshop | Julie Marcoux, Dalhousie |
 | 12:00-1:00 | McCain Atrium | Lunch (*walk to McCain*)	| |
@@ -35,7 +35,7 @@ For room locations and parking, please take a look at this [campus map](/img/cam
 |--- 
 | *Time* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Room* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | *Session* | *Presenter*  |
 |:-|:-|:-|
-| 8:30-8:55	 | McCain Atrium | Arrival and refreshments:  Coffee with new DLI members | Jaqueline Tebbens |
+| 8:30-8:55	 | McCain Atrium | Arrival and refreshments:  Coffee with new DLI members | Jacqueline Tebbens |
 | 8:55-9:00 | | *walk to Seton* | |
 | 9:00-10:30	| Seton 316 | Intro Nesstar & WDS workshop | Siobhan Hanratty, UNB |
 | 10:30-10:45	| Seton 316 | Break	| |

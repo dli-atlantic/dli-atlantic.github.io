@@ -15,7 +15,7 @@ For room locations and parking, please take a look at this [campus map](/img/cam
 |:-|:-|:-|
 | 8:30-9:00	| McCain Atrium | Registration & Coffee| |
 | 9:00-9:15	| McCain 301 | Housekeeping and Welcome	| Hosts; Tanja Harrison, MSVU |
-| 9:15-9:45	| McCain 301 | Icebreaker Activity |	Hosts |
+| 9:15-9:45	| McCain 301 | Icebreaker Activity [link](https://forms.gle/YaBNUfrCYDuMeezH9)|	Hosts |
 | 9:45-10:05| McCain 301 | DLI Update | Jacqueline Tebbens, Stats Can |
 | 10:15-10:30	| Seton 316 | Break (*walk to Seton*)	| |
 | 10:30-11:50	| Seton 316 | Finding Health Stats: Health Indicators and CIHI Workshop | Julie Marcoux, Dalhousie |

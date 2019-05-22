@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Previous Workshops
-permalink: /previous-workshops/
+title: Previous
+permalink: /previous/
 ---
 
 # {{ page.title }}

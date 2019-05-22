@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Previous
+title: Previous Workshops
 permalink: /previous/
 ---
 

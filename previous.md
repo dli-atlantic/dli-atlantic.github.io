@@ -6,4 +6,4 @@ permalink: /previous/
 
 # {{ page.title }}
 
-- [May 8-9, 2019 | Mount Saint Vincent University, Halifax NS](/2019)
+[May 8-9, 2019 | Mount Saint Vincent University, Halifax NS](/2019)

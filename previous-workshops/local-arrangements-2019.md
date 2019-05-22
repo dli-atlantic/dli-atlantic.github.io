@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Local Arrangements
-permalink: /local-arrangements/
+title: Local Arrangements 2019
+permalink: /local-arrangements-2019/
 ---
 
 # {{ page.title }}

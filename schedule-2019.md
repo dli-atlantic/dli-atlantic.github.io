@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule/
+title: Schedule 2019
+permalink: /schedule-2019/
 ---
 
 ## {{ page.title }}

@@ -1,34 +1,32 @@
-##The website title
-name: DLI Atlantic
-##Markdown processor
-markdown: kramdown
-##syntax highlighter. change it to pygments
-highlighter: rouge
 
-##define base_url for valid usage in sitemap.xml and robots.txt
-base_url:  http://dli-atlantic.github.io
+# Site settings
+title: DLI Atlantic
+subtitle: ""
+#email: youremailaddress@gmail.com
+#description: The Jekyll version of the Massively theme by HTML5 UP.
+#baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dli-atlantic.github.io/" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+date_format: "%b %-d, %Y"
+
 sass:
   sass_dir: _sass
-  style: :compressed
-paginate: 5
-paginate_path: "page:num"
-##The website description (to be used in meta tags)
-description: This is the webpage for DLI Atlantic Regional Training.
-##Some frequently used keywords on your website
-keywords: Statistics Canada, DLI, Atlantic Canada, data, data librarian, research data management
 
-##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: analyticsDomain
+social_links:
+    github: dli-atlantic
+    rss: rss
+    mail: sandra.sawchuk@msvu.ca, cdelory@stfx.ca
 
-##Some commonly used links
-links:
-  facebook: username
-  twitter: username
-  email: username@gmail.com
-  github: username
+include:
+  - _pages
+  - _posts
 
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-##about_image: placeholder.jpg
-##comment this if you want full width posts with no sidebar
-##sidebar: on
+exclude:
+  - .gitignore
+  - LICENSE.txt
+  - _site/
+  - "*.ai"

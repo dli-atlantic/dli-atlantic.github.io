@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: post
 title: Contact
 permalink: /contact/
 ---
 
-
-## {{ page.title }}
 
 **Carolyn DeLorey: Regional Training Coordinator**  
 *Collections Librarian*  
@@ -22,6 +20,6 @@ Mount Saint Vincent University Library
 Halifax, NS  
 902-457-6526  
 [sandra.sawchuk@msvu.ca](mailto:sandra.sawchuk@msvu.ca)
- 
+
 **DLI Travel Arrangements**  
 [statcan.mad-traveldli-dam-voyageidd.statcan@canada.ca](mailto:statcan.mad-traveldli-dam-voyageidd.statcan@canada.ca)

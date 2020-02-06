@@ -1,8 +1,8 @@
 
 # Site settings
-title: DLI Atlantic 2020
-subtitle: ""
-#email: youremailaddress@gmail.com
+title: DLI Atlantic
+tagline: "2020 Training Workshop"
+email: youremailaddress@gmail.com
 #description: The Jekyll version of the Massively theme by HTML5 UP.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,7 +19,6 @@ sass:
 social_links:
     github: dli-atlantic
     rss: rss
-    mail: sandra.sawchuk@msvu.ca, cdelory@stfx.ca
 
 include:
   - _pages

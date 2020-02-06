@@ -21,5 +21,14 @@ Halifax, NS
 902-457-6526  
 [sandra.sawchuk@msvu.ca](mailto:sandra.sawchuk@msvu.ca)
 
+
+**Kim Mears: Host**  
+*Health Sciences & Scholarly Communications Librarian*  
+Robertson Library  
+University of Prince Edward Island  
+902-566-0453  
+[kmears@upei.ca](kmears@upei.ca)
+
+
 **DLI Travel Arrangements**  
 [statcan.mad-traveldli-dam-voyageidd.statcan@canada.ca](mailto:statcan.mad-traveldli-dam-voyageidd.statcan@canada.ca)
